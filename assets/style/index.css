@@ -106,16 +106,3 @@ body {
     font-size: 3rem;
 }
 
-.hero__paragraph {
-    margin-bottom: 20px;
-}
-
-.cta {
-    display: inline-block;
-    background-color: #2091F9;
-    justify-self: center;
-    color: #fff;
-    text-decoration: none;
-    padding: 13px 30px;
-    border-radius: 32px;
-}
