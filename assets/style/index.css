@@ -106,3 +106,24 @@ body {
     font-size: 3rem;
 }
 
+/* Section to myphoto*/
+#presentation {
+    margin-top: 79px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .presentation .bkground {
+    position: relative;
+    width: 100%;
+  }
+  
+  .presentation .my-photo {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+  }
+  
