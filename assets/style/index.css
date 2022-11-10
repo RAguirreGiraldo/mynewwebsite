@@ -158,3 +158,46 @@ h1 {
     max-width: 700px;
     font-size: px;
 }
+
+/* Footer */
+
+
+footer {
+    background: hsl(234, 80%, 21%);
+    color: #DFF6FF;
+    width: 100%;
+  }
+  
+  footer .bar-footer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px 30PX;
+    padding: 15px 0;
+  }
+  
+  footer p {
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  footer ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+    margin: 0 auto;
+    width: 100%;
+    }
+  
+  footer li {
+    display: inline;
+    font-size: 1.5em;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #DFF6FF;
+  }
+  
